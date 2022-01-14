@@ -1,7 +1,7 @@
 ---
-title: Shrines and Youkai
+title: Home
 layout: "default"
-nav_exclude: true
+nav_order: 1
 ---
 
 [About Us](/about)
