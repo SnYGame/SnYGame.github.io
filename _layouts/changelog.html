@@ -1,0 +1,29 @@
+---
+layout: "default"
+---
+
+<style>
+.column {
+    float: left;
+}
+
+.content {
+    width: 80%;
+    padding-right: 1em;
+}
+
+.toc {
+    width: 20%;
+    border: 1px;
+    border-style: solid;
+    padding: 1em;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+
+{{ content }}

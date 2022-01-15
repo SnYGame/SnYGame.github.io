@@ -1,0 +1,33 @@
+---
+layout: "default"
+---
+
+<style>
+.column {
+    float: left;
+}
+
+.content {
+    width: 75%;
+    padding-right: 1em;
+}
+
+.toc {
+    width: 25%;
+    border: 1px;
+    border-style: solid;
+    padding: 1em;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+table th:first-of-type {
+    width: 1%;
+}
+</style>
+
+{{ content }}
