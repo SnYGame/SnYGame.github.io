@@ -35,6 +35,18 @@ Contents
 
 ---
 
+## Development
+
+On the 9th of July, 2016, Redrin changed [Freeze](/game/status/stun)'s effect to this and added Petrify as an alias that interacts with Poison instead of Burn. The day after, the changes were removed and Petrify was never actually used in game.
+
+---
+
+## Origin
+
+Petrify/stoned and freeze/frozen are common statuses effects found in RPGs. Units under these effects cannot move, but some games allow fire attacks to remove the freeze effect. Some games also cause petrified units to negate damage dealt to them. Freeze usually doesn't negate damage, but some games do use ice as a means of creating shields or barriers which may be where this effect comes from.
+
+---
+
 ## History
 
 | Version | Changes |

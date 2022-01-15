@@ -23,12 +23,15 @@ def auto_link(path):
 
         for replace in config:
             link = replace['link']
-            sub_string = f'\\1[\\2]({link})' if f'{link}.md' != f'/{path}'.replace(os.path.sep, '/') else f'\\1[\\2](temp_remove)'
+            diff_link = f'{link}.md' != f'/{path}'.replace(os.path.sep, '/')
 
             for keyword in replace['keywords']:
-                pattern = re.compile(f'^((?!title: )(?!# ).*(?![^\\[]*\\]))\\b({keyword})\\b', re.M)
-                while pattern.search(content):
-                    content = pattern.sub(sub_string, content)
+                pattern = re.compile(f'^((?!title: )(?!# ).*?(?![^\\[]*\\]))\\b({keyword})\\b', re.M)
+                if diff_link:
+                    content = pattern.sub(f'\\1[\\2]({link})', content)
+                else:
+                    while pattern.search(content):
+                        content = pattern.sub(f'\\1[\\2](temp_remove)', content)
         
         content = temp_link_re.sub(r'\1', content)
         content = version_num_re.sub(r'[\g<0>](/game/changelog/v\2.html#v\1)', content)
@@ -39,8 +42,6 @@ assert not os.path.isdir('orig')
 
 with open('scripts/auto_link_config.txt') as f:
     config = json.loads(f.read())
-
-print(config)
 
 for root, dirs, files in os.walk(sys.argv[1]):
     for fl in files:
