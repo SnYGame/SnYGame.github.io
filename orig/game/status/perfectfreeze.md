@@ -39,6 +39,6 @@ Contents
 
 | Version | Changes |
 | :---: | --- |
-| [1.3.0](/game/changelog/v1.html#v1.3.0) | Removed due to redundancy with the effects of [Freeze](/game/status/stun) and Poison / Burn. |
-| [1.2.0](/game/changelog/v1.html#v1.2.0) | Due to durations being removed from the status definition, Perfect Freeze was changed to cause the affected to lose 5 HP each turn in order to distinguish itself from [Freeze](/game/status/stun). |
-| [1.0.0](/game/changelog/v1.html#v1.0.0) | Perfect Freeze was already in the game at the start of [v1.0.0](/game/changelog/v1.html#v1.0.0). It had the effect: `Makes a target be unable to act for 9 turns.` |
+| 1.3.0 | Removed due to redundancy with the effects of Freeze and Poison / Burn. |
+| 1.2.0 | Due to durations being removed from the status definition, Perfect Freeze was changed to cause the affected to lose 5 HP each turn in order to distinguish itself from Freeze. |
+| 1.0.0 | Perfect Freeze was already in the game at the start of v1.0.0. It had the effect: `Makes a target be unable to act for 9 turns.` |

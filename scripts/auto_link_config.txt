@@ -1,0 +1,14 @@
+[
+    {
+        "link": "/game/status/petrify",
+        "keywords": ["Freeze / Petrify", "Petrify"]
+    },
+    {
+        "link": "/game/status/perfectfreeze",
+        "keywords": ["Perfect Freeze"]
+    },
+    {
+        "link": "/game/status/stun",
+        "keywords": ["Stun / Freeze", "Stun", "Freeze", "Paralyze", "Paralyzed", "Paralysis"]
+    }
+]
