@@ -8,14 +8,15 @@ temp_link_re = re.compile(r'\[([^\[]+)\]\(temp_remove\)')
 version_num_re = re.compile(r'(?<!# )(?<!#)\bv?((\d+)\.\d+\.\d+[b-z]?)\b')
 
 def process(path):
-    print(path)
-    save_orig(path)
-    auto_link(path)
+    new_path = copy(path)
+    auto_link(new_path)
 
-def save_orig(path):
-    new_path = os.path.join('orig', path)
+def copy(path):
+    new_path = path.split(os.path.sep, maxsplit=1)[1]
     os.makedirs(os.path.dirname(new_path), exist_ok=True)
     shutil.copyfile(path, new_path)
+    print(f'{path} -> {new_path}')
+    return new_path
 
 def auto_link(path):
     with open(path, 'r+') as f:
@@ -38,11 +39,9 @@ def auto_link(path):
         f.seek(0)
         f.write(content)
 
-assert not os.path.isdir('orig')
-
 with open('scripts/auto_link_config.txt') as f:
     config = json.loads(f.read())
 
-for root, dirs, files in os.walk(sys.argv[1]):
+for root, dirs, files in os.walk("orig"):
     for fl in files:
         process(os.path.join(root, fl))
