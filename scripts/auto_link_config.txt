@@ -9,6 +9,10 @@
     },
     {
         "link": "/game/status/stun",
-        "keywords": ["Stun / Freeze", "Stun / Paralyze", "Stun / Paralyze / Freeze", "Stun", "Freeze", "Paralyze", "Paralyzed", "Paralysis"]
+        "keywords": ["Stun / Freeze", "Stun / Paralyze", "Stun / Paralyze / Freeze", "Slow / Paralysis", "Stun", "Freeze", "Paralyze", "Paralyzed", "Paralysis"]
+    },
+    {
+        "link": "/game/status/mirror",
+        "keywords": ["Mirror"]
     }
 ]
