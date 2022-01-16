@@ -37,7 +37,7 @@ Contents
 
 ## Development
 
-On the 9th of July, 2016, Redrin changed [Freeze](/game/status/stun)'s effect to this and added Petrify as an alias that interacts with Poison instead of Burn. The day after, the changes were removed and Petrify was never actually used in game. No reason was given for any of this.
+On the 9th of July 2016, Redrin changed [Freeze](/game/status/stun)'s effect to this and added Petrify as an alias that interacts with Poison instead of Burn. The day after, the changes were removed and Petrify was never actually used in game. No reason was given for any of this.
 
 ---
 

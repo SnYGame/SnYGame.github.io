@@ -37,7 +37,7 @@ Contents
 
 ## Development
 
-Initially added some time in v0, Perfect Freeze was originally just Freeze with a longer duration of 9 turns. On the 14th of June, 2016, base durations were no longer an inherent property of statuses and the effect of also causing the affected to lost 5 HP each turn was added to distinguish itself from Freeze. On the 5th of July, 2016, the status was removed, possibily due to its effect essentially being a combination of Freeze and Burn / Poison.
+Initially added some time in v0, Perfect Freeze was originally just Freeze with a longer duration of 9 turns. On the 14th of June, 2016, base durations were no longer an inherent property of statuses and the effect of also causing the affected to lost 5 HP each turn was added to distinguish itself from Freeze. On the 5th of July 2016, the status was removed, possibily due to its effect essentially being a combination of Freeze and Burn / Poison.
 
 ---
 

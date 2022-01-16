@@ -37,7 +37,7 @@ Contents
 
 ## Development
 
-Redrin added Mirror was added on the 15th June, 2016, in order to change one of Banana's spell effect into a status albeit the effect was slightly different. On the 2nd of July, 2016, Banana changed the effect to instead double the damage of basic attacks for unknown reasons. Two days later, Banana's character was reworked and the status itself was removed the day after.
+Mirror was created by Redrin in order to change one of Banana's spell effects into a status (albeit with a slightly different effect). Banana later changed the effect of Mirror entirely, but two days after that, Banana's character was reworked and the status was removed on the following day. It is unknown how many (if any) of these changes were communicated, or what the reasons for doing so were.
 
 ---
 
