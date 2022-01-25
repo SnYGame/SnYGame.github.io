@@ -51,8 +51,8 @@ Petrify/stoned and freeze/frozen are common statuses effects found in RPGs. Unit
 
 | Version | Changes |
 | :---: | --- |
-| 1.3.4b | Removed. |
-| 1.3.4 | Freeze was changed to this effect with Petrify as an alias. |
+| 1.3.4 | Removed. |
+| 1.3.3 | Freeze was changed to this effect with Petrify as an alias. |
 
 ---
 
