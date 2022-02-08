@@ -14,5 +14,13 @@
     {
         "link": "/game/status/mirror",
         "keywords": ["Mirror"]
+    },
+    {
+        "link": "/game/status/monitor",
+        "keywords": ["X Monitor [Y]", "Monitor"]
+    },
+    {
+        "link": "/game/status/distance",
+        "keywords": ["Distance"]
     }
 ]

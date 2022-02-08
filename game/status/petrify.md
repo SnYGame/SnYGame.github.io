@@ -12,7 +12,9 @@ grand_parent: Gameplay Documentation
 <div class="row">
 <div class="column content" markdown="1">
 
-**Freeze** / **Petrify** is a weird status that is no longer in the game. See also [Stun / Freeze](/game/status/stun).
+**Freeze** / **Petrify** is a status that is no longer in the game. See also [Stun / Freeze](/game/status/stun).
+
+| **Alignment** | Weird |
 
 </div>
 <div class="column toc" markdown="1">

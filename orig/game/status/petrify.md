@@ -12,7 +12,9 @@ grand_parent: Gameplay Documentation
 <div class="row">
 <div class="column content" markdown="1">
 
-**[Freeze](temp_remove)** / **Petrify** is a weird status that is no longer in the game. See also Stun / Freeze.
+**[Freeze](temp_remove)** / **Petrify** is a status that is no longer in the game. See also Stun / Freeze.
+
+| **Alignment** | Weird |
 
 </div>
 <div class="column toc" markdown="1">
