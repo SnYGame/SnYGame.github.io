@@ -39,7 +39,7 @@ Contents
 
 ## Development
 
-Distance was added on the 15th of June 2016 on the same day as a few other status changes. On June 19th of the same year, the One-Way variation was added which only delays incoming effects. Prior to its removal, the effect was rarely used due to the difficulty in tracking all of the delayed actions that would stack up over time, especially with higher potencies. On the 14th of September 2018, Distance was finally removed. Afterwards many custom delay effects were used by players but most would only delay for 1 turn and last for a very short duration.
+Distance was added on the 15th of June 2016 on the same day as a few other status changes. On July 19th of the same year, the One-Way variation was added which only delays incoming effects. Prior to its removal, the effect was rarely used due to the difficulty in tracking all of the delayed actions that would stack up over time, especially with higher potencies. On the 14th of September 2018, Distance was finally removed. Afterwards many custom delay effects were used by players but most would only delay for 1 turn and last for a very short duration.
 
 ---
 
