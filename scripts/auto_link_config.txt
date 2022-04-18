@@ -22,5 +22,9 @@
     {
         "link": "/game/status/distance",
         "keywords": ["Distance"]
+    },
+    {
+        "link": "/game/status/wish",
+        "keywords": ["X Wish", "Wish"]
     }
 ]
