@@ -46,7 +46,7 @@ The status was originally a custom status called Break that applied the effect o
 
 ## Origin
 
-Wish comes from Death Wish and the Pokemon move [Wish](https://bulbapedia.bulbagarden.net/wiki/Wish_(move)), which has a similar delayed application effect.
+Wish comes from Death Wish and the Pokémon move [Wish](https://bulbapedia.bulbagarden.net/wiki/Wish_(move)), which has a similar delayed application effect.
 
 ---
 

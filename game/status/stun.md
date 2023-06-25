@@ -16,6 +16,7 @@ grand_parent: Gameplay Documentation
 | **Alignment** | Bad |
 | **Class** | Action Modifiers: Crowd Control |
 | **Boss Immune** | Yes |
+| **Other Names** | Slow, Paralysis, Paralyzed, Paralyze |
 
 </div>
 <div class="column toc" markdown="1">
