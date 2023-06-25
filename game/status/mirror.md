@@ -60,3 +60,7 @@ The name Mirror was given most likely because the spell that used it was called 
 ## Trivia
 
 - Two months after Mirror's removal, percentage potencies could be specified for Attack Up which allows its [1.2.8](/game/changelog/v1.html#v1.2.8) effect to be emulated using Attack Up [100%].
+
+## See also
+
+- Haste

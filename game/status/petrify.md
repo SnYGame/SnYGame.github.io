@@ -12,7 +12,7 @@ grand_parent: Gameplay Documentation
 <div class="row">
 <div class="column content" markdown="1">
 
-**Freeze** / **Petrify** is a status that is no longer in the game. See also [Stun / Freeze](/game/status/stun).
+**Freeze** / **Petrify** is a status that is no longer in the game.
 
 | **Alignment** | Weird |
 
@@ -61,3 +61,7 @@ Petrify/stoned and freeze/frozen are common statuses effects found in RPGs. Unit
 ## Trivia
 
 - There was no notice on Discord that this change to [Freeze](/game/status/stun) was added. Since it was also removed the day after, once again with no notice, many players at the time did not even know this status existed.
+
+## See also
+
+- [Stun / Freeze](/game/status/stun)

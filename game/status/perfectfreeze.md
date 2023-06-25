@@ -60,3 +60,7 @@ Perfect Freeze comes from [Cirno](https://en.touhouwiki.net/wiki/Cirno)'s spell 
 ## Trivia
 
 - Even after Perfect Freeze's removal, some players still had reward spells that used its effect.
+
+## See also
+
+- [Stun / Freeze](/game/status/stun)

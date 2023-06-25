@@ -46,7 +46,7 @@ Both Stun, Freeze, and Slow / Paralysis were added some time during v0, all with
 
 ## Origin
 
-Stun, freeze, and paralysis are common statuses effects found in RPGs. Units under these effects have a chance to not be able to act. The slow effect in games typically slows down movement, but in some turn based games, it may instead lower hit rate or reduce the amount of moves that can be used.
+Stun, freeze, and paralysis are common statuses effects found in RPGs. Units under these effects have a chance to not be able to act. Paralysis was specifically inspired by [the Pokémon games](https://bulbapedia.bulbagarden.net/wiki/Paralysis_(status_condition)). The slow effect in games typically slows down movement, but in some turn based games, it may instead lower hit rate or reduce the amount of moves that can be used.
 
 ---
 
@@ -65,3 +65,11 @@ Stun, freeze, and paralysis are common statuses effects found in RPGs. Units und
 | [1.2.0](/game/changelog/v1.html#v1.2.0) | Stun and Freeze were merged since statuses no longer had restricted durations. The Paralysis status was brought back with the new name of Paralyzed while Slow was given a new effect. |
 | [1.0.1](/game/changelog/v1.html#v1.0.1) | Paralysis was removed as an alias for Slow. |
 | [1.0.0](/game/changelog/v1.html#v1.0.0) | Stun, Freeze, and Slow / Paralysis were already in the game at the start of [v1.0.0](/game/changelog/v1.html#v1.0.0). Stun had the effect: `Makes a target be unable to act for 1 to 3 turns unless specified.` Freeze had the effect: `Makes a target be unable to act for 5 turns.` Slow / Paralysis had the effect: `Has a 50% chance of actually acting for the next 5 turns.`|
+
+---
+
+## See also
+
+- Slow
+- [Perfect Freeze](/game/status/perfectfreeze)
+- [Petrify](/game/status/petrify)
