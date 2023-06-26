@@ -41,7 +41,7 @@ Contents
 
 ## Development
 
-Guard Break and Silence were added some time in v0, with the current effect of preventing usage of Defend (called Guard at the time) and Spells. Blocked was added as an equivalent for the Attack command, though all three had a different range of allowed durations. Blocked was later renamed to Blind and given an extra effect of having a 25% chance for Spells to fail, which was later increased to 50%. In [1.6.1](/game/changelog/v1.html#v1.6.1), Blind was then changed to have a chance to fail instead, but the status returns in [1.7.1](/game/changelog/v1.html#v1.7.1) as Attack Block when all three are generalized as the Command Block status.
+Guard Break and Silence were added some time in v0, with the current effect of preventing usage of Defend (called Guard at the time) and Spells. Blocked was added as an equivalent for the Attack command, though all three had a different range of allowed durations. Blocked was later renamed to Blind and given an extra effect of having a 25% chance for Spells to fail, which was later increased to 50%. In [1.6.1](/game/changelog/v1.html#v1.6.1), Blind was then changed to have a chance to fail instead, but the status returned in [1.7.1](/game/changelog/v1.html#v1.7.1) as Attack Block when all three were generalized as the Command Block status.
 
 ---
 
