@@ -1,8 +1,7 @@
 ---
 title: Distance
 layout: "status"
-nav_exclude: true
-parent: Statuses
+parent: Removed Content
 grand_parent: Gameplay Documentation
 ---
 

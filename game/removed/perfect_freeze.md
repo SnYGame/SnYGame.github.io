@@ -1,8 +1,7 @@
 ---
 title: Perfect Freeze
 layout: "status"
-nav_exclude: true
-parent: Statuses
+parent: Removed Content
 grand_parent: Gameplay Documentation
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Destiny Bond
 layout: "status"
-nav_exclude: true
-parent: Statuses
+parent: Removed Content
 grand_parent: Gameplay Documentation
 ---
 
@@ -57,7 +56,7 @@ Although Life Link and similar spellings does appear in other games, the origina
 | [4.1.2](/game/changelog/v4.html#v4.1.2) | Removed. |
 | [1.4.0](/game/changelog/v1.html#v1.4.0) | Reverted [1.3.0](/game/changelog/v1.html#v1.3.0) changes and renamed to Destiny Bond. Lifelink was given a new effect. |
 | [1.3.0](/game/changelog/v1.html#v1.3.0) | Now only kills the affected if all other linked units die. It was also considered a bad status. |
-| [1.1.1](/game/changelog/v1.html#v1.1.1) | Duration was changed to 3 to 5 turns instead. |
+| [1.1.1](/game/changelog/v1.html#v1.1.1) | Duration was changed to a range of 3 to 5 turns instead. |
 | [1.1.0](/game/changelog/v1.html#v1.1.0) | Life Link was added with the effect: `Links one target’s life to another target for 5 turns. If one of them die, the other linked targets also die.` |
 
 ---
