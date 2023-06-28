@@ -54,5 +54,5 @@ Monitor did not have any influences from other games. Although *The Genius of Sa
 
 | Version | Changes |
 | :---: | --- |
-| [4.8.1](/game/changelog/v4.html#v4.8.1) | Changed from a good status to a situational status. |
+| [4.8.1](/game/changelog/v4.html#v4.8.1) | Now considered a situational status. |
 | [4.8.0](/game/changelog/v4.html#v4.8.0) | Monitor was added as a good status with the current effect. |
