@@ -57,8 +57,10 @@ Failure has no origin from any other sources. Blind is a common status effect us
 | :---: | --- |
 | [4.8.0](/game/changelog/v4.html#v4.8.0) | Now affects all commands that affect enemies. |
 | [4.7.0](/game/changelog/v4.html#v4.7.0) | Classified as Trigger Modifier. |
-| [1.6.5](/game/changelog/v1.html#v1.6.5) | Blind was given a default activation chance of 100%. |
+| [4.6.0](/game/changelog/v4.html#v4.6.0) | Bosses are now immune to Blind. |
+| [1.6.5](/game/changelog/v1.html#v1.6.5) | Blind was given a default activation chance of 100%. No longer overwrites [Berserk](/game/removed/berserk). |
 | [1.6.1](/game/changelog/v1.html#v1.6.1) | Blind's effect was changed to the original Failure effect, but affecting all offensive commands. |
+| [1.3.1](/game/changelog/v1.html#v1.3.1) | Now overwrites [Berserk](/game/removed/berserk). |
 | [1.3.0](/game/changelog/v1.html#v1.3.0) | Failure was removed. Blind was now considered a bad status. |
 | [1.2.10](/game/changelog/v1.html#v1.2.10) | Failure can now also cause Guard to fail. |
 | [1.2.8](/game/changelog/v1.html#v1.2.8) | Failure [n] was added with the following description: `Attacks done by the target have a n% chance to miss.` |

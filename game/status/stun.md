@@ -57,6 +57,7 @@ Stun, freeze, and paralysis are common statuses effects found in RPGs. Units und
 | :---: | --- |
 | [4.8.0](/game/changelog/v4.html#v4.8.0) | Now skips moves and prevents usage of Quick Effects. |
 | [4.7.0](/game/changelog/v4.html#v4.7.0) | Classified as Action Modifiers: Crowd Control. |
+| [4.6.0](/game/changelog/v4.html#v4.6.0) | Bosses are now immune to Stun / Freeze. |
 | [1.6.13](/game/changelog/v1.html#v1.6.13) | Paralyze was removed as an alias. |
 | [1.6.5](/game/changelog/v1.html#v1.6.5) | Now had a default activation chance of 100%. |
 | [1.6.1](/game/changelog/v1.html#v1.6.1) | Freeze was merged with Stun / Paralyze. |

@@ -55,3 +55,9 @@ Wish comes from Death Wish and the Pokémon move [Wish](https://bulbapedia.bulba
 | Version | Changes |
 | :---: | --- |
 | [4.9.0](/game/changelog/v4.html#v4.9.0) | Wish was added with the current effect. |
+
+---
+
+## See also
+
+- [Doom](/game/status/doom)

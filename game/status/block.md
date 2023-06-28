@@ -56,8 +56,9 @@ Guard Break (or Guard Crush) is based on fighting games where attacks are able t
 | Version | Changes |
 | :---: | --- |
 | [4.7.0](/game/changelog/v4.html#v4.7.0) | Classified as Action Modifiers: Crowd Control. |
-| [3.0.7](/game/changelog/v3.html#v3.0.7) | Block now affects custom commands if the original was blocked. |
-| [1.7.1](/game/changelog/v1.html#v1.7.1) | Guard Break and Silence were merged into a generalized status called [action] Block. |
+| [4.6.0](/game/changelog/v4.html#v4.6.0) | Bosses are now immune to Action Block. |
+| [3.0.7](/game/changelog/v3.html#v3.0.7) | Action Block now affects custom commands if the original was blocked. |
+| [1.7.1](/game/changelog/v1.html#v1.7.1) | Guard Break and Silence were merged into a generalized status called Action Block. |
 | [1.6.1](/game/changelog/v1.html#v1.6.1) | Blind was given a [new effect](/game/status/blind). |
 | [1.3.0](/game/changelog/v1.html#v1.3.0) | Now considered a bad status. |
 | [1.2.2](/game/changelog/v1.html#v1.2.2) | Blind's chance to cause spellcards to not deal damage was increased to 50%. |
