@@ -62,7 +62,7 @@ Stun, freeze, and paralysis are common statuses effects found in RPGs. Units und
 | [1.6.5](/game/changelog/v1.html#v1.6.5) | Now had a default activation chance of 100%. |
 | [1.6.1](/game/changelog/v1.html#v1.6.1) | Freeze was merged with Stun / Paralyze. |
 | [1.3.4](/game/changelog/v1.html#v1.3.4) | The [1.3.3](/game/changelog/v1.html#v1.3.3) changes to Freeze were reverted. |
-| [1.3.3](/game/changelog/v1.html#v1.3.3) | Freeze was given a [new effect](/game/status/petrify). |
+| [1.3.3](/game/changelog/v1.html#v1.3.3) | Freeze was given a [new effect](/game/removed/petrify). |
 | [1.3.0](/game/changelog/v1.html#v1.3.0) | Stun and Paralyzed (renamed to Paralyze) were merged and now allow for a variable activation chance. Freeze kept the original effect. They were now considered bad statuses. |
 | [1.2.0](/game/changelog/v1.html#v1.2.0) | Statuses no longer have restricted durations. Stun and Freeze were merged. The Paralysis status was brought back with the new name of Paralyzed while Slow was given a new effect. |
 | [1.0.1](/game/changelog/v1.html#v1.0.1) | Paralysis was removed as an alias for Slow. |
@@ -74,4 +74,4 @@ Stun, freeze, and paralysis are common statuses effects found in RPGs. Units und
 
 - Slow
 - [Perfect Freeze](/game/status/perfectfreeze)
-- [Petrify](/game/status/petrify)
+- [Petrify](/game/removed/petrify)
