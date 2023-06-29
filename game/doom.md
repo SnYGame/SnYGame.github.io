@@ -55,18 +55,18 @@ Death Sentence and Doom are both statuses and spells from other games that insta
 
 | Version | Changes |
 | :---: | --- |
-| [4.9.0](/game/changelog/v4.html#v4.9.0) | Bosses are now immune to Doom. |
-| [4.8.5](/game/changelog/v4.html#v4.8.5) | Classified as Triggered Effect: On Removal. |
-| [4.8.5](/game/changelog/v4.html#v4.8.5) | Renamed to Doom. |
-| [4.8.0](/game/changelog/v4.html#v4.8.0) | Now sets HP to 0 instead of instantly defeating the affected unit. |
-| [4.7.0](/game/changelog/v4.html#v4.7.0) | Classified as Triggered Effect: On Time Out. |
-| [1.6.5](/game/changelog/v1.html#v1.6.5) | Now triggers when the status expires. |
-| [1.3.0](/game/changelog/v1.html#v1.3.0) | Now considered a bad status. |
-| [1.2.0](/game/changelog/v1.html#v1.2.0) | Statuses no longer have restricted durations. |
-| [1.0.0](/game/changelog/v1.html#v1.0.0) | Death Sentence was already in the game at the start of [v1.0.0](/game/changelog/v1.html#v1.0.0). It had the effect: `Makes a target die after 3 to 5 turns.` |
+| [4.9.0](v4#v4.9.0) | Bosses are now immune to Doom. |
+| [4.8.5](v4#v4.8.5) | Classified as Triggered Effect: On Removal. |
+| [4.8.5](v4#v4.8.5) | Renamed to Doom. |
+| [4.8.0](v4#v4.8.0) | Now sets HP to 0 instead of instantly defeating the affected unit. |
+| [4.7.0](v4#v4.7.0) | Classified as Triggered Effect: On Time Out. |
+| [1.6.5](v1#v1.6.5) | Now triggers when the status expires. |
+| [1.3.0](v1#v1.3.0) | Now considered a bad status. |
+| [1.2.0](v1#v1.2.0) | Statuses no longer have restricted durations. |
+| [1.0.0](v1#v1.0.0) | Death Sentence was already in the game at the start of [v1.0.0](v1#v1.0.0). It had the effect: `Makes a target die after 3 to 5 turns.` |
 
 ---
 
 ## See also
 
-- [Wish](/game/status/wish)
+- [Wish](wish)

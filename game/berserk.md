@@ -54,16 +54,16 @@ Berserk was inspired by the [status with the same name](https://finalfantasy.fan
 
 | Version | Changes |
 | :---: | --- |
-| [4.8.0](/game/changelog/v4.html#v4.8.0) | Removed. |
-| [4.7.0](/game/changelog/v4.html#v4.7.0) | Classified as Action Modifiers: Crowd Control. |
-| [4.6.0](/game/changelog/v4.html#v4.6.0) | Bosses are now immune to Berserk. |
-| [1.6.5](/game/changelog/v1.html#v1.6.5) | Berserk attacks now target randomly and is no longer overwritten by Blind. |
-| [1.6.1](/game/changelog/v1.html#v1.6.1) | Now considered a bad status and no longer increases damage dealt. |
-| [1.4.2](/game/changelog/v1.html#v1.4.2) | Now deals 1d30 damage instead of extra damage. |
-| [1.3.1](/game/changelog/v1.html#v1.3.1) | Berserk now gets overwritten by Blind. |
-| [1.3.0](/game/changelog/v1.html#v1.3.0) | Now considered a weird status. |
-| [1.1.1](/game/changelog/v1.html#v1.1.1) | Now deals extra damage instead of higher damage. |
-| [1.0.0](/game/changelog/v1.html#v1.0.0) | Berserk was already in the game at the start of [v1.0.0](/game/changelog/v1.html#v1.0.0). It had the effect: `Attacks the enemy (with higher damage) without any command for the next 3 turns.` |
+| [4.8.0](v4#v4.8.0) | Removed. |
+| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers: Crowd Control. |
+| [4.6.0](v4#v4.6.0) | Bosses are now immune to Berserk. |
+| [1.6.5](v1#v1.6.5) | Berserk attacks now target randomly and is no longer overwritten by Blind. |
+| [1.6.1](v1#v1.6.1) | Now considered a bad status and no longer increases damage dealt. |
+| [1.4.2](v1#v1.4.2) | Now deals 1d30 damage instead of extra damage. |
+| [1.3.1](v1#v1.3.1) | Berserk now gets overwritten by Blind. |
+| [1.3.0](v1#v1.3.0) | Now considered a weird status. |
+| [1.1.1](v1#v1.1.1) | Now deals extra damage instead of higher damage. |
+| [1.0.0](v1#v1.0.0) | Berserk was already in the game at the start of [v1.0.0](v1#v1.0.0). It had the effect: `Attacks the enemy (with higher damage) without any command for the next 3 turns.` |
 
 ## See also
 

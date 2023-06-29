@@ -33,7 +33,7 @@ Contents
 
 ## Effect
 
-**Priority [n]**: The target cannot use **Quick Effects** in response to actions performed by units with a higher **Priority**. Units with lower **Priority** cannot use **Quick Effects** in response to actions performed by the target. Users without the **Priority** status are considered to have a **Priority** of 0.
+**Priority \[n\]**: The target cannot use **Quick Effects** in response to actions performed by units with a higher **Priority**. Units with lower **Priority** cannot use **Quick Effects** in response to actions performed by the target. Users without the **Priority** status are considered to have a **Priority** of 0.
 
 ---
 
@@ -53,8 +53,8 @@ In card games, priority refers to a player's ability to play cards in response t
 
 | Version | Changes |
 | :---: | --- |
-| [4.6.3](/game/changelog/v4.html#v4.6.3) | Removed. |
-| [4.0.2](/game/changelog/v4.html#v4.0.2) | Priority was added with the current effect. |
+| [4.6.3](v4#v4.6.3) | Removed. |
+| [4.0.2](v4#v4.0.2) | Priority was added with the current effect. |
 
 ## See also
 

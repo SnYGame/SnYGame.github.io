@@ -34,13 +34,13 @@ Contents
 
 ## Effect
 
-**X Monitor [Y]**: When **X** is performed, the affected performs **Y** (without using an action) after **X** has resolved.
+**X Monitor \[Y\]**: When **X** is performed, the affected performs **Y** (without using an action) after **X** has resolved.
 
 ---
 
 ## Development
 
-The idea of Monitor was brought up on the 17th of June 2020 as a more general form of Counter and React. It is essentially an "on X do Y" status. It was finally implemented in the [4.8.0](/game/changelog/v4.html#v4.8.0) update on the 9th of October. Originally a good status, it was later changed to be a situational status after realization that **Y** could potentially be a negative effect.
+The idea of Monitor was brought up on the 17th of June 2020 as a more general form of Counter and React. It is essentially an "on X do Y" status. It was finally implemented in the [4.8.0](v4#v4.8.0) update on the 9th of October. Originally a good status, it was later changed to be a situational status after realization that **Y** could potentially be a negative effect.
 
 ---
 
@@ -54,5 +54,5 @@ Monitor did not have any influences from other games. Although *The Genius of Sa
 
 | Version | Changes |
 | :---: | --- |
-| [4.8.1](/game/changelog/v4.html#v4.8.1) | Now considered a situational status. |
-| [4.8.0](/game/changelog/v4.html#v4.8.0) | Monitor was added as a good status with the current effect. |
+| [4.8.1](v4#v4.8.1) | Now considered a situational status. |
+| [4.8.0](v4#v4.8.0) | Monitor was added as a good status with the current effect. |

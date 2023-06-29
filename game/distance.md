@@ -32,7 +32,7 @@ Contents
 
 ## Effect
 
-**(One-Way)-Distance [n]**: Actions that occur between the target and another entity in battle are delayed for **n** turns. If the target has **One-Way-Distance**, only actions targeting that battle entity will be delayed. The target’s own actions will not have delay.
+**(One-Way)-Distance \[n\]**: Actions that occur between the target and another entity in battle are delayed for **n** turns. If the target has **One-Way-Distance**, only actions targeting that battle entity will be delayed. The target’s own actions will not have delay.
 
 ---
 
@@ -52,8 +52,8 @@ Distance was used in a Komachi boss battle, whose ability is to manipulate dista
 
 | Version | Changes |
 | :---: | --- |
-| [4.1.2](/game/changelog/v4.html#v4.1.2) | Removed. |
-| [1.6.1](/game/changelog/v1.html#v1.6.1) | Now considered a situational status. |
-| [1.4.6](/game/changelog/v1.html#v1.4.6) | One-Way-Distance was added. |
-| [1.3.0](/game/changelog/v1.html#v1.3.0) | Now considered a weird status. |
-| [1.2.0](/game/changelog/v1.html#v1.2.0) | Distance was added with the effect: `The target’s actions, as well as actions affecting the target have a delay of n turns (where n is any natural number).` |
+| [4.1.2](v4#v4.1.2) | Removed. |
+| [1.6.1](v1#v1.6.1) | Now considered a situational status. |
+| [1.4.6](v1#v1.4.6) | One-Way-Distance was added. |
+| [1.3.0](v1#v1.3.0) | Now considered a weird status. |
+| [1.2.0](v1#v1.2.0) | Distance was added with the effect: `The target’s actions, as well as actions affecting the target have a delay of n turns (where n is any natural number).` |

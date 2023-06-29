@@ -39,7 +39,7 @@ Contents
 
 ## Development
 
-On the 9th of July 2016, Redrin changed [Freeze](/game/status/stun)'s effect to this and added Petrify as an alias that interacts with Poison instead of Burn. The day after, the changes were removed and Petrify was never actually used in game. No reason was given for any of this.
+On the 9th of July 2016, Redrin changed [Freeze](stun)'s effect to this and added Petrify as an alias that interacts with Poison instead of Burn. The day after, the changes were removed and Petrify was never actually used in game. No reason was given for any of this.
 
 ---
 
@@ -53,15 +53,15 @@ Petrify/stoned and freeze/frozen are common statuses effects found in RPGs. Unit
 
 | Version | Changes |
 | :---: | --- |
-| [1.3.4](/game/changelog/v1.html#v1.3.4) | Removed. |
-| [1.3.3](/game/changelog/v1.html#v1.3.3) | [Freeze](/game/status/stun) was changed to this effect with Petrify as an alias. |
+| [1.3.4](v1#v1.3.4) | Removed. |
+| [1.3.3](v1#v1.3.3) | [Freeze](stun) was changed to this effect with Petrify as an alias. |
 
 ---
 
 ## Trivia
 
-- There was no notice on Discord that this change to [Freeze](/game/status/stun) was added. Since it was also removed the day after, once again with no notice, many players at the time did not even know this status existed.
+- There was no notice on Discord that this change to [Freeze](stun) was added. Since it was also removed the day after, once again with no notice, many players at the time did not even know this status existed.
 
 ## See also
 
-- [Stun / Freeze](/game/status/stun)
+- [Stun / Freeze](stun)
