@@ -56,12 +56,6 @@ search_enabled: true
 defaults:
   -
     scope:
-      path: game/
-      type: pages
-    values:
-      permalink: game/:basename
-  -
-    scope:
       path: game/statuses/
       type: pages
     values:
@@ -84,3 +78,9 @@ defaults:
       layout: changelog
       parent: Changelog
       grand_parent: Gameplay Documentation
+  -
+    scope:
+      path: game/
+      type: pages
+    values:
+      permalink: game/:basename
