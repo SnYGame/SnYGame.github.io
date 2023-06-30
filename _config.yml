@@ -56,7 +56,31 @@ search_enabled: true
 defaults:
   -
     scope:
-      path: game
+      path: game/
       type: pages
     values:
       permalink: game/:basename
+  -
+    scope:
+      path: game/statuses/
+      type: pages
+    values:
+      layout: status
+      parent: Statuses
+      grand_parent: Gameplay Documentation
+  -
+    scope:
+      path: game/removed_content/
+      type: pages
+    values:
+      layout: status
+      parent: Removed Content
+      grand_parent: Gameplay Documentation
+  -
+    scope:
+      path: game/changelog/
+      type: pages
+    values:
+      layout: changelog
+      parent: Changelog
+      grand_parent: Gameplay Documentation

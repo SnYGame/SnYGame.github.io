@@ -1,9 +1,5 @@
 ---
 title: Freeze / Petrify
-layout: "status"
-nav_exclude: true
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Freeze / Petrify

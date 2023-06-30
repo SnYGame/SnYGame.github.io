@@ -1,8 +1,5 @@
 ---
 title: Wish
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Wish

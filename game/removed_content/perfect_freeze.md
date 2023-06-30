@@ -1,8 +1,5 @@
 ---
 title: Perfect Freeze
-layout: "status"
-parent: Removed Content
-grand_parent: Gameplay Documentation
 ---
 
 # Perfect Freeze

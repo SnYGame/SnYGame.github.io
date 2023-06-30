@@ -1,8 +1,5 @@
 ---
 title: Destiny Bond
-layout: "status"
-parent: Removed Content
-grand_parent: Gameplay Documentation
 ---
 
 # Destiny Bond

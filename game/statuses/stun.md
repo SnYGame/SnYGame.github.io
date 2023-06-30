@@ -1,8 +1,5 @@
 ---
 title: Stun / Freeze
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Stun / Freeze

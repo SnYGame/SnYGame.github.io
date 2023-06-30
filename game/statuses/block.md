@@ -1,8 +1,5 @@
 ---
 title: Command Block
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Command Block

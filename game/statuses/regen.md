@@ -1,8 +1,5 @@
 ---
 title: Regen
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Regen

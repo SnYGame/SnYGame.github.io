@@ -1,8 +1,5 @@
 ---
 title: Repel
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Repel

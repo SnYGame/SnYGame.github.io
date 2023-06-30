@@ -1,8 +1,5 @@
 ---
 title: Doom
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Doom

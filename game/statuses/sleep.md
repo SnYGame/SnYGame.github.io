@@ -1,8 +1,5 @@
 ---
 title: Sleep
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Sleep

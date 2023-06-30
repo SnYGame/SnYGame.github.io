@@ -1,8 +1,5 @@
 ---
 title: Mirror
-layout: "status"
-parent: Removed Content
-grand_parent: Gameplay Documentation
 ---
 
 # Mirror

@@ -1,8 +1,5 @@
 ---
 title: Priority
-layout: "status"
-parent: Removed Content
-grand_parent: Gameplay Documentation
 ---
 
 # Priority

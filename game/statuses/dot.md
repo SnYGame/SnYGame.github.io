@@ -1,8 +1,5 @@
 ---
 title: Poison / Burn / Bleed
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Poison / Burn / Bleed

@@ -1,8 +1,5 @@
 ---
 title: Berserk
-layout: "status"
-parent: Removed Content
-grand_parent: Gameplay Documentation
 ---
 
 # Berserk

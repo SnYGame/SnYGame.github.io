@@ -1,8 +1,5 @@
 ---
 title: Blind
-layout: "status"
-parent: Statuses
-grand_parent: Gameplay Documentation
 ---
 
 # Blind
