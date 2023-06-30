@@ -1,12 +1,12 @@
 ---
-title: Petrify
+title: Freeze / Petrify
 layout: "status"
 nav_exclude: true
 parent: Statuses
 grand_parent: Gameplay Documentation
 ---
 
-# Petrify
+# Freeze / Petrify
 {: .no_toc}
 
 <div class="row">
@@ -61,6 +61,8 @@ Petrify/stoned and freeze/frozen are common statuses effects found in RPGs. Unit
 ## Trivia
 
 - There was no notice on Discord that this change to [Freeze](stun) was added. Since it was also removed the day after, once again with no notice, many players at the time did not even know this status existed.
+
+---
 
 ## See also
 
