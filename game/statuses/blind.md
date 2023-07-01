@@ -2,7 +2,7 @@
 title: Blind
 ---
 
-# Blind
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

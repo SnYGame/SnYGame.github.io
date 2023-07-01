@@ -2,7 +2,7 @@
 title: Command Block
 ---
 
-# Command Block
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">
@@ -52,7 +52,8 @@ Guard Break (or Guard Crush) is based on fighting games where attacks are able t
 
 | Version | Changes |
 | :---: | --- |
-| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers: Crowd Control. |
+| [4.8.0](v4#v4.8.0) | Classified as Action Modifiers: Crowd Control. |
+| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers / Crowd Control Effects. |
 | [4.6.0](v4#v4.6.0) | Bosses are now immune to Action Block. |
 | [3.0.7](v3#v3.0.7) | Action Block now affects custom commands if the original was blocked. |
 | [1.7.1](v1#v1.7.1) | Guard Break and Silence were merged into a generalized status called Action Block. |

@@ -2,7 +2,7 @@
 title: Priority
 ---
 
-# Priority
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

@@ -2,7 +2,7 @@
 title: Berserk
 ---
 
-# Berserk
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">
@@ -11,7 +11,7 @@ title: Berserk
 **Berserk** is a status that is no longer in the game.
 
 | **Alignment** | Bad |
-| **Class** | Action Modifiers: Crowd Control |
+| **Class** | Action Modifiers / Crowd Control Effects |
 | **Boss Immune** | Yes |
 
 </div>
@@ -52,7 +52,7 @@ Berserk was inspired by the [status with the same name](https://finalfantasy.fan
 | Version | Changes |
 | :---: | --- |
 | [4.8.0](v4#v4.8.0) | Removed. |
-| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers: Crowd Control. |
+| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers / Crowd Control Effects. |
 | [4.6.0](v4#v4.6.0) | Bosses are now immune to Berserk. |
 | [1.6.5](v1#v1.6.5) | Berserk attacks now target randomly and is no longer overwritten by Blind. |
 | [1.6.1](v1#v1.6.1) | Now considered a bad status and no longer increases damage dealt. |

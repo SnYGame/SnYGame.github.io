@@ -2,7 +2,7 @@
 title: Destiny Bond
 ---
 
-# Destiny Bond
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

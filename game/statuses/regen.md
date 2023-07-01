@@ -2,7 +2,7 @@
 title: Regen
 ---
 
-# Regen
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

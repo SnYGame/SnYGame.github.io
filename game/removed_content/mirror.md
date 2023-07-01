@@ -2,7 +2,7 @@
 title: Mirror
 ---
 
-# Mirror
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

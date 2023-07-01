@@ -2,7 +2,7 @@
 title: Perfect Freeze
 ---
 
-# Perfect Freeze
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

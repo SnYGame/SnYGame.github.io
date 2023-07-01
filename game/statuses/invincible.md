@@ -2,7 +2,7 @@
 title: Invincible
 ---
 
-# Invincible
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

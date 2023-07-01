@@ -2,13 +2,13 @@
 title: Stun / Freeze
 ---
 
-# Stun / Freeze
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">
 <div class="column content" markdown="1">
 
-**Stun** / **Freeze** is a status.
+**Stun / Freeze** is a status.
 
 | **Alignment** | Bad |
 | **Class** | Action Modifiers: Crowd Control |
@@ -52,8 +52,8 @@ Stun, freeze, and paralysis are common statuses effects found in RPGs. Units und
 
 | Version | Changes |
 | :---: | --- |
-| [4.8.0](v4#v4.8.0) | Now skips moves and prevents usage of Quick Effects. |
-| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers: Crowd Control. |
+| [4.8.0](v4#v4.8.0) | Now skips moves and prevents usage of Quick Effects. Classified as Action Modifiers: Crowd Control |
+| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers / Crowd Control Effects. |
 | [4.6.0](v4#v4.6.0) | Bosses are now immune to Stun / Freeze. |
 | [1.6.13](v1#v1.6.13) | Paralyze was removed as an alias. |
 | [1.6.5](v1#v1.6.5) | Now had a default activation chance of 100%. |

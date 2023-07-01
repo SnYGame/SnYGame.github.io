@@ -2,7 +2,7 @@
 title: Repel
 ---
 
-# Repel
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

@@ -2,13 +2,13 @@
 title: Freeze / Petrify
 ---
 
-# Freeze / Petrify
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">
 <div class="column content" markdown="1">
 
-**Freeze** / **Petrify** is a status that is no longer in the game.
+**Freeze / Petrify** is a status that is no longer in the game.
 
 | **Alignment** | Weird |
 

@@ -2,7 +2,7 @@
 title: Wish
 ---
 
-# Wish
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

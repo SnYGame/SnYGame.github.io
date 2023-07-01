@@ -2,7 +2,7 @@
 title: Monitor
 ---
 
-# Monitor
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

@@ -2,7 +2,7 @@
 title: Confused
 ---
 
-# Confused
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

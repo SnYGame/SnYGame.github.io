@@ -2,7 +2,7 @@
 title: Poison / Burn / Bleed
 ---
 
-# Poison / Burn / Bleed
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">

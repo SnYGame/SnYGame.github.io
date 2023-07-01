@@ -2,7 +2,7 @@
 title: Sleep
 ---
 
-# Sleep
+# {{page.title}}
 {: .no_toc}
 
 <div class="row">
@@ -51,7 +51,8 @@ Sleep is a common status effect in games, most of the time having the same effec
 
 | Version | Changes |
 | :---: | --- |
-| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers: Crowd Control. |
+| [4.8.0](v4#v4.8.0) | Classified as Action Modifiers: Crowd Control. |
+| [4.7.0](v4#v4.7.0) | Classified as Action Modifiers / Crowd Control Effects. |
 | [1.6.1](v1#v1.6.1) | No longer heals. Now considered a bad status. |
 | [1.4.10](v1#v1.4.10) | No longer prevents Haste from activating. |
 | [1.3.1](v1#v1.3.1) | Now prevents Haste from activating. |
