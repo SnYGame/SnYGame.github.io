@@ -56,10 +56,10 @@ Effects that deal damage over time are common in games. Poison, Burn, and Bleed 
 | [4.7.0](v4#v4.7.0) | Classified as Over Time Effect: Healing over Time. |
 | [1.6.6](v1#v1.6.6) | Classified as DoT. |
 | [1.6.5](v1#v1.6.5) | Bleed is now an alias. |
-| [1.3.3](v1#v1.3.3) | Taking Burn damage now negates [Freeze](petrify). Taking Poison damage now negates [Petrify](petrify). No longer interacts with Zombie / Undead. |
+| [1.3.3](v1#v1.3.3) | Taking Burn damage now negates [Freeze](petrify). Taking Poison damage now negates [Petrify](petrify). No longer interacts with Undead / Zombie. |
 | [1.3.0](v1#v1.3.0) | Now considered a bad status. |
 | [1.2.8](v1#v1.2.8) | Now allows for variable potency. |
-| [1.2.2](v1#v1.2.2) | Zombie / Undead now negates Poison damage and doubles Burn damage. |
+| [1.2.2](v1#v1.2.2) | Undead / Zombie now negates Poison damage and doubles Burn damage. |
 | [1.2.0](v1#v1.2.0) | Statuses no longer have restricted durations. |
 | [1.0.0](v1#v1.0.0) | Poison / Burn was already in the game at the start of [v1.0.0](v1#v1.0.0). It had the effect: `Makes a target lose 5 HP per turn for the next 3 / 5 turns.` |
 
