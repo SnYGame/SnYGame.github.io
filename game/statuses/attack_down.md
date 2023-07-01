@@ -43,7 +43,7 @@ Attack Down was added some time in v0 with the effect of decreasing damage dealt
 
 ## Origin
 
-Effects that decrease an attacking stat or damage dealt is common in games.
+Effects that decrease an attacking stat or damage dealt are common in games.
 
 ---
 

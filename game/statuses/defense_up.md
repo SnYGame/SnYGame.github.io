@@ -43,7 +43,7 @@ Defense Up was added some time in v0 with the effect of decreasing damage taken 
 
 ## Origin
 
-Effects that increase a defensive stat or decrease damage taken is common in games.
+Effects that increase a defensive stat or decrease damage taken are common in games.
 
 ---
 

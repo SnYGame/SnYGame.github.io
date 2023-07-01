@@ -38,7 +38,7 @@ Contents
 
 ## Development
 
-Poison / Burn was added some time in v0 with the effect of losing 5 HP for 3 / 5 turns. Like other statuses, these was changed to allow variable potency and duration. Later on Bleed was added as a third standard damage over time status.
+Poison / Burn was added some time in v0 with the effect of losing 5 HP for 3 / 5 turns. Like other statuses, these were changed to allow variable potency and duration. Later on Bleed was added as a third standard damage over time status.
 
 ---
 

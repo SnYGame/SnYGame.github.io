@@ -43,7 +43,7 @@ Defense Down was added some time in v0 with the effect of increasing damage take
 
 ## Origin
 
-Effects that decrease a defensive stat or increase damage taken is common in games.
+Effects that decrease a defensive stat or increase damage taken are common in games.
 
 ---
 

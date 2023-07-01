@@ -44,7 +44,7 @@ Banished was added some time in v0 with the effect of removing a unit from play.
 
 ## Origin
 
-Banish or Banishment is an effect in some Final Fantasy games, Dungeons and Dragons, and Yugioh, among others. In these games, the effect removes a unit from battle, sometimes temporarily.
+Banish or Banishment is an effect in some Final Fantasy games, Dungeons and Dragons, and Yugioh, among others. In these games, the effect removes a unit from play, sometimes temporarily.
 
 ---
 
@@ -52,7 +52,7 @@ Banish or Banishment is an effect in some Final Fantasy games, Dungeons and Drag
 
 | Version | Changes |
 | :---: | --- |
-| [4.9.0](v4#v4.9.0) | No affects bosses. |
+| [4.9.0](v4#v4.9.0) | No longer affects bosses. |
 | [4.8.0](v4#v4.8.0) | No longer classified as Action Modifiers / Crowd Control. |
 | [4.7.0](v4#v4.7.0) | Classified as both Target Modifier and Action Modifiers / Crowd Control. |
 | [4.1.1](v4#v4.1.1) | Renamed to Banish. |

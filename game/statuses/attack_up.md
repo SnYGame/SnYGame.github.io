@@ -43,7 +43,7 @@ Attack Up was added some time in v0 with the effect of increasing damage dealt b
 
 ## Origin
 
-Effects that increases an attacking stat or damage dealt is common in games.
+Effects that increases an attacking stat or damage dealt are common in games.
 
 ---
 

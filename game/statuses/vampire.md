@@ -37,7 +37,7 @@ Contents
 
 ## Development
 
-Vampire was added some time in v0 with the effect of healing by half the damage dealt. Unlike other statuses at the time, there isn't a default duration and may have been permanent. Later on, the percentage of health that was restored could be changed.
+Vampire was added some time in v0 with the effect of healing by half the damage dealt. Unlike other statuses at the time, there wasn't a default duration and it may have been permanent. Later on, the percentage of health that was restored could be changed.
 
 ---
 

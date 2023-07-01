@@ -37,7 +37,7 @@ Contents
 
 ## Development
 
-Haste was added some time in v0 with the effect of letting the affected unit act twice for 1 to 3 turns. Like other statuses, this was changed to allow variable duration, along with activation chance later on. Due to ambiguity when gaining the status in the middle of the move, it was clarify to only activate at the start of the move by default.
+Haste was added some time in v0 with the effect of letting the affected unit act twice for 1 to 3 turns. Like other statuses, this was changed to allow variable duration, along with activation chance later on. Due to ambiguity when gaining the status in the middle of the move, it was clarified to only activate at the start of the move by default.
 
 ---
 
