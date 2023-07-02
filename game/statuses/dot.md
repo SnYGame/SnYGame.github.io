@@ -13,7 +13,6 @@ title: Poison / Burn / Bleed
 | **Alignment** | Bad |
 | **Class** | Over Time Effect: Damage over Time (DoT) |
 | **Boss Immune** | No |
-| **Other Names** | DoT |
 
 </div>
 <div class="column toc" markdown="1">

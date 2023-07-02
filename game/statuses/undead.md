@@ -51,6 +51,7 @@ Zombies are undead creatures in popular media. In games with damage types, they 
 
 | Version | Changes |
 | :---: | --- |
+| [4.8.0](v4#v4.8.0) | Now decreases HP instead of dealing true damage. |
 | [4.7.0](v4#v4.7.0) | Classified as Healing Modifier: Healing Mitigator. |
 | [4.5.2](v4#v4.5.2) | Now has an optional damage limit. |
 | [1.6.13](v1#v1.6.13) | Zombie was removed as an alias. |
